@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv\\controllers\\membrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|solutionrelative:arosaje-ksenv\\controllers\\membrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|solutionrelative:arosaje-ksenv\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv.test\\controllers\\plantescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|solutionrelative:arosaje-ksenv.test\\controllers\\plantescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv\\arosaje-ksenv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|solutionrelative:arosaje-ksenv\\arosaje-ksenv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv.test\\arosaje-ksenv.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|solutionrelative:arosaje-ksenv.test\\arosaje-ksenv.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv.test\\controllers\\botanistescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4AFFCF-5EF2-402A-8186-25B1A15AFF04}|Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj|solutionrelative:arosaje-ksenv.test\\controllers\\botanistescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|solutionrelative:arosaje-ksenv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|c:\\users\\lobra\u00EFco valentin\\desktop\\arosaje-ksenv-api\\arosaje-ksenv\\models\\arosajeksenvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A9A211-96C4-4195-8ADE-17BEC8165D8F}|Arosaje-KSENV\\Arosaje-KSENV.csproj|solutionrelative:arosaje-ksenv\\models\\arosajeksenvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembresController.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Controllers\\MembresController.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV\\Controllers\\MembresController.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Controllers\\MembresController.cs",
+              "RelativeToolTip": "Arosaje-KSENV\\Controllers\\MembresController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwHUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:25:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Controllers\\UtilisateursController.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV\\Controllers\\UtilisateursController.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Controllers\\UtilisateursController.cs",
+              "RelativeToolTip": "Arosaje-KSENV\\Controllers\\UtilisateursController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAQwFEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:37:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlantesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Controllers\\PlantesControllerTests.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV.test\\Controllers\\PlantesControllerTests.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Controllers\\PlantesControllerTests.cs",
+              "RelativeToolTip": "Arosaje-KSENV.test\\Controllers\\PlantesControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:30:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arosaje-KSENV.csproj",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Arosaje-KSENV.csproj",
+              "RelativeDocumentMoniker": "Arosaje-KSENV\\Arosaje-KSENV.csproj",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Arosaje-KSENV.csproj",
+              "RelativeToolTip": "Arosaje-KSENV\\Arosaje-KSENV.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T09:21:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArosajeKsenvContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Models\\ArosajeKsenvContext.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV\\Models\\ArosajeKsenvContext.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Models\\ArosajeKsenvContext.cs",
+              "RelativeToolTip": "Arosaje-KSENV\\Models\\ArosajeKsenvContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:52:22.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Program.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV\\Program.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV\\Program.cs",
+              "RelativeToolTip": "Arosaje-KSENV\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:27:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arosaje-KSENV.test.csproj",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj",
+              "RelativeDocumentMoniker": "Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj",
+              "RelativeToolTip": "Arosaje-KSENV.test\\Arosaje-KSENV.test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T12:40:48.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BotanistesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Controllers\\BotanistesControllerTests.cs",
+              "RelativeDocumentMoniker": "Arosaje-KSENV.test\\Controllers\\BotanistesControllerTests.cs",
+              "ToolTip": "C:\\Users\\Lobra\u00EFco Valentin\\Desktop\\AROSAJE-KSENV-API\\Arosaje-KSENV.test\\Controllers\\BotanistesControllerTests.cs",
+              "RelativeToolTip": "Arosaje-KSENV.test\\Controllers\\BotanistesControllerTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAF0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:16:48.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
